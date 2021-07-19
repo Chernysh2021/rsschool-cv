@@ -21,3 +21,13 @@ I am one of those who does not stop at what has been achieved and always strive 
 *Translator (CN-RUS, CN-EN)
 *GoIT marathon
 \*RS School frontend dev
+
+### Education
+
+*Bachelor(BJTU)
+*RSSchool(frontend dev)
+
+### Language
+
+English B1
+Chinese HSK5
