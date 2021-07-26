@@ -19,8 +19,7 @@ I am one of those who does not stop at what has been achieved and always strive 
 ### Experience
 
 *Translator (CN-RUS, CN-EN)
-*GoIT marathon
-\*RS School frontend dev
+*RS School frontend dev
 
 ### Education
 
